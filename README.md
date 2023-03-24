@@ -3,7 +3,6 @@
 A fun, interactive Blackjack game built with React and Next.js. Improve your Blackjack skills or simply enjoy playing the classic casino game in the comfort of your browser.
 
 ## Features
-- Responsive and visually appealing interface
 - Realistic game logic and card shuffling
 - Intuitive bet placement and game controls
 - Player balance tracking and display
