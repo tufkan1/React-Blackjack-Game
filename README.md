@@ -2,6 +2,9 @@
 
 A fun, interactive Blackjack game built with React and Next.js. Improve your Blackjack skills or simply enjoy playing the classic casino game in the comfort of your browser. This game utilizes the [Deck of Cards API](https://deckofcardsapi.com/) for card shuffling and drawing.
 
+## Test the Game
+You can test the game by visiting the [live demo](https://react-blackjack-game.vercel.app/).
+
 ## Features
 - Realistic game logic and card shuffling
 - Intuitive bet placement and game controls
